@@ -1,0 +1,4 @@
+log/*
+# Media
+*.ppm
+*.mp4
