@@ -1,0 +1,6 @@
+[submodule "greuh_liberation"]
+	path = greuh_liberation
+	url = git@github.com:GreuhZbug/greuh_liberation.Altis.git
+[submodule "kp_liberation"]
+	path = kp_liberation
+	url = git@github.com:KillahPotatoes/KP-Liberation.git
